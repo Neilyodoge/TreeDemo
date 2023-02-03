@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Athena_Foliage_StylizedWindTreeLeavesNew
+  m_Shader: {fileID: 4800000, guid: 81e506f01be0653458d0d33d0650cb0f, type: 3}
+  m_ShaderKeywords: _HARDRIM
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: fbfa1d52bbf07dc4abd9d04c0959ccf4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WindTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AORange: 1
+    - _CustomBloomAlphaOffset: 0
+    - _CustomBloomIntensity: 1
+    - _CutIntensity: 0.7
+    - _Cutoff: 0.5
+    - _Debug: 6
+    - _DebugMode: 0
+    - _DitherAmountMax: 0
+    - _DitherAmountMin: 0
+    - _FaceLightGrayIntensity: 7
+    - _FaceLightGrayScale: 7
+    - _Frequency: 0.5
+    - _HardRimDistanceIntensity: 40.6
+    - _HardRimWidth: 0.0167
+    - _LightIntensity: 1
+    - _LocalShadowDepthBias: 0.25
+    - _LodMask: 0.579
+    - _Magnitude: 0.5
+    - _ModelScaleCorrection: 0.2
+    - _SHDarkPart: 1
+    - _SHIntensity: 1
+    - _SubSurfaceGain: 1
+    - _SubSurfaceScale: -1
+    - _ToonCutPos: 0
+    - _TreeLerpIntensity: 478
+    - _TreeLerpRoot: 0
+    - _TreeLerpTop: 100
+    - _UsingHardRim: 1
+    - _VI: 10
+    - _WindSineIntensity: 0.5
+    - _WindTexIntensity: 1
+    - _WindTexMoveSpeed: 0.1
+    - _WindTexScale: 1
+    - _saturate: 0.882
+    m_Colors:
+    - _AOTint: {r: 0.8784314, g: 0.27450985, b: 0.77067935, a: 1}
+    - _BaseColor: {r: 1, g: 0.8857143, b: 0.8, a: 1}
+    - _DarkColor: {r: 0.262, g: 0.15262134, b: 0.04069902, a: 1}
+    - _HardRimTint: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 1}
+    - _LerpColor: {r: 0.5568628, g: 0.57456535, b: 0.8, a: 1}
+    - _Tint: {r: 0.754717, g: 0.48046586, b: 0.38803846, a: 1}
+    - _WindDirection: {r: 1, g: 0, b: 1, a: 0}
+  m_BuildTextureStacks: []

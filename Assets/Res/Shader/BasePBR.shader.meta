@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c368f223e8195324387743a8bafd86b1
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _stone_pillar_mid_UVdebug_AlbedoTransparency: {fileID: 2800000, guid: 0ea340f64cee5ac49b568a608a45eab2, type: 3}
+  - _Normal: {fileID: 2800000, guid: ff13d336a9b81354f8f13a1bec774a7b, type: 3}
+  - _stone_pillar_mid_UVdebug_MetallicSmoothness: {fileID: 2800000, guid: 37f226f4e4f246f4abaee4e82f462ef7, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
